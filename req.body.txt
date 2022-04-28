@@ -1,0 +1,22 @@
+{
+    "amount" : "2",
+    "quantity" : "1",
+    "unit_price" : "2",
+    "cc_first_name" : "firstname",
+    "cc_last_name" : "lastname",
+    "cc_phone_number" : "12334",
+    "phone_number" : "324243567",
+    "billing_address" : "aacz",
+    "city" : "phalia",
+    "state" : "punjab",
+    "postal_code" : "345",
+    "ISO_countrycode" : "PAK",
+    "email": "abc@gmail.com",
+    "address_shipping" : "PAK",
+    "city_shipping" : "saczx",
+    "state_shipping" : "sdafcz",
+    "postal_code_shipping" : "ascfda",
+    "country_shipping" : "PAK",
+    "reference_no" : "9080"
+
+}
